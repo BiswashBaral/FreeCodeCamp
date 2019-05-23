@@ -1,0 +1,29 @@
+#main {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#img-div {
+    margin: 40px;
+    background: white;
+    text-align: center;
+}
+/*
+@media (max-width : 100px) {
+    #image {
+        display: 30%;
+        height:auto;
+    }
+}
+*/
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+
+p {
+    padding: 3em;
+}
